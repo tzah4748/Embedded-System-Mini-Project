@@ -27,7 +27,7 @@ After solving correctly all four problems, the player has to press "#" to input 
 
 
 ## ***Modules Used:***
-It was needed to use at least 4 modules that the board can offer for the project  
+As part of the project requirements I had to use at least 4 modules from the board.   
 I've used the following modules:  
 1. LCD Display - It's purpose is to communicate with the player and show him messages.
 2. Keyboard - The player's input delivery is done with this keyboard.
