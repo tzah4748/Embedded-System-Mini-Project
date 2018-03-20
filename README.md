@@ -35,3 +35,12 @@ I've used the following modules:
 4. Timer - With the timer we can tell when one minute has passed or when the buzzer has to tick faster as time goes down.
 5. Interrupts - The interrupts mechanism listens for the Timer and reacts according to the time passed, for example: as time goes down the mechanism interrups the Buzzer and reactivates it to tick faster.
 6. LCD-G - Graphical LCD is used to show the player the mathematical question he has to solve.
+
+
+## ***Installtion:***
+Assuming you got the board and the required hardware:
+1. Download and open, MPLAB IDE (I personally used v8.66).
+>[Download MPLAB IDE v8.66](http://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB_IDE_v8_66.zip)
+2. Create a new project with "project wizard", select the "PIC32MAX460F512L" device (or any other device you might be using), when asked to add files, add the "v1.c", finish the creation.
+3. Open "Debugger" tab and select REAL ICE as your debugger tool.
+4. Press "Build All", then Program and to start just press "Run".
