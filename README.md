@@ -18,6 +18,6 @@ After solving correctly all four problems, the player has to press "#" to input 
 
 ## ***Hardware:***
 - The board itself:  
-![Image of board](https://image.ibb.co/kHgexx/IMG_20180319_190215.jpgs=200 "Copyrights Afeka College")![Image2 of board](https://image.ibb.co/ewNmcx/Picture1.jpgs=200 "Copyrights Afeka College")
+![Image of board](https://image.ibb.co/kHgexx/IMG_20180319_190215.jpgs=200 "Copyrights Afeka College")![Image2 of board](https://image.ibb.co/cktL4c/Picture1.jpgs=200 "Copyrights Afeka College")
 - Board's processor: MICROCHIP [PIC32MX460F512L](https://www.microchip.com/wwwproducts/en/PIC32MX460F512L)
 -
