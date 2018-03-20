@@ -12,7 +12,7 @@ As a final project I've decided to make a game called "Defuse The Bomb".
 
 
 ## ***Game Explanation:***
-This game is quite simple, once we press "A" to start playing, the player has 1 minute in to solve four mathematical problems with increasing diffculity, every right answer will grant the player a code number and a number that represents it's "index" (this is called "line" number in the game).  
+This game is quite simple, once we press "A" to start playing, the player has 1 minute in to solve four mathematical questions with increasing diffculity, every right answer will grant the player a code number and a number that represents it's "index" (this is called "line" number in the game).  
 After solving correctly all four problems, the player has to press "#" to input the code for the bomb, if the code is right the bomb will turn off and stop ticking! else... well we all know what happens next ;)
 
 
@@ -24,3 +24,14 @@ After solving correctly all four problems, the player has to press "#" to input 
 - In-Circuit Emulator: [MPLAB REAL ICE](http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=DV244005)  
 >How It's Used:  
 ![](https://xsi.wdfiles.com/local--files/tool:realice/PC-RealICE-Explorer16.png "MPLAB®")
+
+
+## ***Modules Used:***
+It was needed to use at least 4 modules that the board can offer for the project  
+I've used the following modules:  
+1. LCD Display - It's purpose is to communicate with the player and show him messages.
+2. Keyboard - The player's input delivery is done with this keyboard.
+3. Buzzer - It ticks faster as time goes down to imitate a real bomb.
+4. Timer - With the timer we can tell when one minute has passed or when the buzzer has to tick faster as time goes down.
+5. Interrupts - The interrupts mechanism listens for the Timer and reacts according to the time passed, for example: as time goes down the mechanism interrups the Buzzer and reactivates it to tick faster.
+6. LCD-G - Graphical LCD is used to show the player the mathematical question he has to solve.
