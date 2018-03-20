@@ -44,3 +44,6 @@ Assuming you got the board and the required hardware:
 2. Create a new project with "project wizard", select the "PIC32MAX460F512L" device (or any other device you might be using), when asked to add files, add the "v1.c", finish the creation.
 3. Open "Debugger" tab and select REAL ICE as your debugger tool.
 4. Press "Build All", then Program and to start just press "Run".
+
+
+[![Demonstration](https://image.ibb.co/hFX6uc/demo.png)](https://youtu.be/00JRAE4FDuc "Demonstration Video")
