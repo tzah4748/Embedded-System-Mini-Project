@@ -21,4 +21,6 @@ After solving correctly all four problems, the player has to press "#" to input 
 ![Image of board](https://image.ibb.co/kHgexx/IMG_20180319_190215.jpgs=200 "Copyrights Afeka College")  
 ![Image2 of board](https://image.ibb.co/cktL4c/Picture1.jpgs=200 "Copyrights Afeka College")
 - Board's processor: MICROCHIP [PIC32MX460F512L](https://www.microchip.com/wwwproducts/en/PIC32MX460F512L)
--
+- In-Circuit Emulator: [MPLAB REAL ICE](http://www.microchip.com/Developmenttools/ProductDetails.aspx?PartNO=DV244005)  
+>How It's Used:  
+![](https://xsi.wdfiles.com/local--files/tool:realice/PC-RealICE-Explorer16.png "MPLAB®")
