@@ -1,4 +1,4 @@
-<h1 align="center">Embedded System - Mini Project</br></h1>
+<h1 align="center">Embedded System - Mini Project</br>Defuse The Bomb</h1>
 
 <p align="center">
     <b>Final project</br>
