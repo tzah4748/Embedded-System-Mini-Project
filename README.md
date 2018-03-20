@@ -14,3 +14,10 @@ As a final project I've decided to make a game called "Defuse The Bomb".
 ## ***Game Explanation:***
 This game is quite simple, once we press "A" to start playing, the player has 1 minute in to solve four mathematical problems with increasing diffculity, every right answer will grant the player a code number and a number that represents it's "index" (this is called "line" number in the game).  
 After solving correctly all four problems, the player has to press "#" to input the code for the bomb, if the code is right the bomb will turn off and stop ticking! else... well we all know what happens next ;)
+
+
+## ***Hardware:***
+- The board itself:  
+>![Image of board](https://image.ibb.co/kHgexx/IMG_20180319_190215.jpg "Copyrights, Afeka College) 
+- Board's processor: MICROCHIP [PIC32MX460F512L](https://www.microchip.com/wwwproducts/en/PIC32MX460F512L)
+-
