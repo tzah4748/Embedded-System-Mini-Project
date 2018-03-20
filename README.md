@@ -13,7 +13,7 @@ As a final project I've decided to make a game called "Defuse The Bomb".
 
 ## ***Game Explanation:***
 This game is quite simple, once we press "A" to start playing, the player has 1 minute in to solve four mathematical questions with increasing diffculity, every right answer will grant the player a code number and a number that represents it's "index" (this is called "line" number in the game).  
-After solving correctly all four problems, the player has to press "#" to input the code for the bomb, if the code is right the bomb will turn off and stop ticking! else... well we all know what happens next ;)
+After solving all four questions, the player has to press "#" to input the code for the bomb, the right code will set off the bomb and the wrong code... well we all know what happens next ;)
 
 
 ## ***Hardware:***
