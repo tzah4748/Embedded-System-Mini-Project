@@ -7,7 +7,7 @@ Course 10110, Embedded System</b></p>
 
 ## ***Introduction:***
 This is the final project for an Embedded System Course (10110).  
-In this course we've studied a specific board (with a pic32 processor) that was provided to us in class.  
+In this course we've studied a specific board (with a PIC32 processor) that was provided to us in class.  
 As a final project I've decided to make a game called "Defuse The Bomb".
 
 
